@@ -6667,6 +6667,42 @@
   <item component="ComponentInfo{xyz.nextalone.nagram/org.telegram.ui.LaunchActivity}" drawable="nagram" name="Nagram" />
   <item component="ComponentInfo{xyz.nextalone.nagram/org.telegram.messenger.PremiumIcon}" drawable="nagram" name="Nagram" />
   <item component="ComponentInfo{xyz.nextalone.nagram/org.telegram.messenger.DefaultIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.DarkBlueIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.BlueIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.AquaIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.CloudIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.DarkIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.MaterialIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.MerioIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.MusheenIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.NeonIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.NoxIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.OldSchoolIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.RainbowIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.SpaceIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.TurboIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.VintageIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.ui.LaunchActivity}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.PremiumIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{xyz.nextalone.nnngram/org.telegram.messenger.DefaultIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.DarkBlueIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.BlueIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.AquaIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.CloudIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.DarkIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.MaterialIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.MerioIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.MusheenIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.NeonIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.NoxIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.OldSchoolIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.RainbowIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.SpaceIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.TurboIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.VintageIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.ui.LaunchActivity}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.PremiumIcon}" drawable="nagram" name="Nagram" />
+  <item component="ComponentInfo{com.xtaolabs.pagergram/org.telegram.messenger.DefaultIcon}" drawable="nagram" name="Nagram" />
   <item component="ComponentInfo{com.wavefront.namegenerator/com.wavefront.nicknamegenerator.MainActivity}" drawable="name_generator" name="Name Generator" />
   <item component="ComponentInfo{com.kotobagames.namelesscat/com.unity3d.player.UnityPlayerActivity}" drawable="nameless_cat" name="Nameless Cat" />
   <item component="ComponentInfo{com.msob7y.namida/com.msob7y.namida.NamidaMainActivity}" drawable="namida" name="Namida" />
